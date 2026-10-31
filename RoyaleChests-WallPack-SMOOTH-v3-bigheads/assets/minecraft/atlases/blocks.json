@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "royalechests:item/zone_wall_blue"
+    },
+    {
+      "type": "single",
+      "resource": "royalechests:item/zone_wall_red"
+    }
+  ]
+}
